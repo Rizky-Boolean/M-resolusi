@@ -1,0 +1,7 @@
+M Resolusi
+  - Belajar Backend / Frontend
+  - Cari tempat belajar fullstack Backend / Frontend
+  - Belajar fullstack seminggu 2x
+  - Belajar Fullstack 12 jam seminggu
+  - Membuat aplikasi raport
+  
